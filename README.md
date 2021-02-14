@@ -1,5 +1,4 @@
-# SwiftCodingChallenges
-Swift Coding Challenges
+# Swift Coding Challenges
 
 * 01: Do two strings contain the same characters?
 * 02: Are the letters unique?
