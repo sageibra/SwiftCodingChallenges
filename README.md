@@ -1,6 +1,7 @@
 # SwiftCodingChallenges
 Swift Coding Challenges contains 64 challenges
 
-Challenge 1: Do two strings contain the same characters?
-Challenge 2: Are the letters unique?
-Challenge 3: Is a string a palindrome?
+* 01: Do two strings contain the same characters?
+* 02: Are the letters unique?
+* 03: Is a string a palindrome?
+* 04: Does one string contain another?
