@@ -5,3 +5,6 @@
 * 03: Is a string a palindrome?
 * 04: Does one string contain another?
 * 05: Count the characters.
+* 06: Remove duplicate letters from a string
+* 07: Condense whitespace
+* 08: String is rotated
