@@ -8,3 +8,5 @@
 * 06: Remove duplicate letters from a string
 * 07: Condense whitespace
 * 08: String is rotated
+* 09: Find pangrams
+* 10: Vowels and consonants
