@@ -10,3 +10,4 @@
 * 08: String is rotated
 * 09: Find pangrams
 * 10: Vowels and consonants
+* 11: Three different letters
