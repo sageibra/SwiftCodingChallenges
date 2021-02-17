@@ -11,3 +11,5 @@
 * 09: Find pangrams
 * 10: Vowels and consonants
 * 11: Three different letters
+* 12: Find longest prefix
+* 13: Run-length encoding
