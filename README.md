@@ -13,3 +13,8 @@
 * 11: Three different letters
 * 12: Find longest prefix
 * 13: Run-length encoding
+* 14: String permutations
+* 15: Reverse the words in a string
+* 16: Fizz Buzz
+* 17: Generate a random number in a range
+* 18: Recreate the pow() function
