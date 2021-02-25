@@ -21,3 +21,5 @@
 * 19: Swap two numbers
 * 20: Number is prime?
 * 21: Counting binary ones
+* 22: Binary reverse
+* 23: Integer disguised as string
