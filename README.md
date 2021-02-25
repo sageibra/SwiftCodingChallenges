@@ -18,3 +18,6 @@
 * 16: Fizz Buzz
 * 17: Generate a random number in a range
 * 18: Recreate the pow() function
+* 19: Swap two numbers
+* 20: Number is prime?
+* 21: Counting binary ones
