@@ -23,3 +23,6 @@
 * 21: Counting binary ones
 * 22: Binary reverse
 * 23: Integer disguised as string
+* 24: Add numbers inside a string
+* 25: Calculate a square root by hand
+* 26: Subtract without subtract
