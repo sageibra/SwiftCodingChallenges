@@ -27,3 +27,6 @@
 * 25: Calculate a square root by hand
 * 26: Subtract without subtract
 * 27: Print last lines
+* 28: Log a message
+* 29: Documents directory
+* 30: New JPEGs
